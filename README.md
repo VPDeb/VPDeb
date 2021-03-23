@@ -4,7 +4,7 @@ Thank you for checking me out, Currently this is what I am working on and lookin
 - 🔭 I’m currently working on StorySquad Tesseract Model
 - 🌱 I’m currently learning to Train a Tesseract model with new fonts to work with handwritten submissions
 - 👯 I’m looking to collaborate on Machine Learning models and large Database Creation and Maintenance
-- 🤔 I’m looking for help with Fun and intuitive project ideas.
+- 🤔 I’m looking for help with fun and intuitive project ideas.
 - 💬 Ask me about anything, I am always up for a challenge and learning new things.
 - 📫 How to reach me: vdebebe924@gmail.com
 - 😄 Pronouns: She/Her
@@ -17,7 +17,7 @@ Thank you for checking me out, Currently this is what I am working on and lookin
 - 🔭 I’m currently working on StorySquad Tesseract Model
 - 🌱 I’m currently learning to Train a Tesseract model with new fonts to work with handwritten submissions
 - 👯 I’m looking to collaborate on Machine Learning models and large Database Creation and Maintenance
-- 🤔 I’m looking for help with Fun and intuitive project ideas.
+- 🤔 I’m looking for help with fun and intuitive project ideas.
 - 💬 Ask me about anything, I am always up for a challenge and learning new things.
 - 📫 How to reach me: vdebebe924@gmail.com
 - 😄 Pronouns: She/Her
